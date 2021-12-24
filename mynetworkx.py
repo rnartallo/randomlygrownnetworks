@@ -1,3 +1,5 @@
+#This is an extension to NetworkX written by stackOverflow user kcoskun. It allows NetworkX to plot multiple weights on a directed graph with parallel edges. I included this in order to plot the cluster graph which has parallel weighted edges with different weights - something currently not doable with NetworkX. 
+
 def my_draw_networkx_edge_labels(
     G,
     pos,
