@@ -2,7 +2,7 @@
 
 My name is Ramón Nartallo-Kaluarachchi.
 
-This repository houses a project for the MA4J5 Structures of Complex Systems module at the Univeristy of Warwick Mathematics Institute. 
+This repository houses a project for the MA4J5 Structures of Complex Systems module at the University of Warwick Mathematics Institute. 
 
 This project has two parts: the .pdf report and the .ipynb notebook. They should be read together. The report focuses on some more robust theory and discussions about the models and their neuroscientific inspiration, whereas the notebook allows you to play with the simulations and change parameters etc.
 
